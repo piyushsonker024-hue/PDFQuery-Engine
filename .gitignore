@@ -1,0 +1,12 @@
+
+.env
+__pycache__/
+*.py[cod]
+*.pyo
+
+.vscode/
+
+pdf_output/
+
+.DS_Store
+Thumbs.db
