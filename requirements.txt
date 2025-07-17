@@ -1,0 +1,8 @@
+Flask
+PyMuPDF
+pytesseract
+pdf2image
+Pillow
+google-generativeai
+camelot-py[cv]
+pandas
